@@ -100,13 +100,3 @@ Elle a également entrevu et décrit certaines possibilités offertes par les ca
 [Page Facebook](https://www.facebook.com/Les-Ateliers-dAda-1010068332420661/) - [ada@lesbricodeurs.fr](mailto:ada@lesbricodeurs.fr) - Xavier : 06 67 44 99 79
 
 Une remarque? [N'hésitez pas >]({{site.url}}/AteliersdAda/idees/)
-
-
-# Informations pratiques
-
-Durant l'année 2015-2016, les ateliers ont lieu tous les samedis dans le 1er arrondissement de Lyon.
-
-* A 14h, l'atelier d'initiation pour les enfants de 6 à 12 ans
-* A 16h, l'atelier avancé à partir de 10 ans
-
-**Pour l'année 2016-2017 nous privilégions les partenariats avec des structures éducatives et scientifiques en attendant de pouvoir organiser des ateliers plus fréquemment.**
